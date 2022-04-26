@@ -7,3 +7,5 @@ for x in list:
     newlist.append(x)
 
 print(newlist)
+
+newList=[x for x in list if "a" in x]

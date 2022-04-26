@@ -1,0 +1,4 @@
+DEBUG:root:Add: 300 + 100 = 400
+DEBUG:root:Sub: 300 - 100 = 200
+DEBUG:root:Mul: 300 * 100 = 30000
+DEBUG:root:Div: 300 / 100 = 3.0
