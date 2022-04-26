@@ -1,0 +1,10 @@
+gitLogging in python - replace print statements by log
+Logging is a means of tracking events that happen when some software runs. Logging is important for software developing, debugging, and running. If you don’t have any logging record and your program crashes, there are very few chances that you detect the cause of the problem
+to start logging we need to import the module there is need to install
+there are 5 levels of logging - 1)debug - detailed info used mostly when we are diagnosing problems.
+                                2)info - confirmation that things are working as expected 
+                                3)warning - an indication that something unexpected happened
+                                4)error - due to some more serious problem software has not been able to perform the desired function.
+                                5)critical - a serious error indicating program itself may be unable to cintinue running.
+                                
+default level of logging set to warning
